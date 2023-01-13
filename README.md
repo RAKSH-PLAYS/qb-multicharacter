@@ -1,5 +1,5 @@
 # QB-Multicharacter
-QB-Multicharacter - Designed By RakshPlays
+QB-Multicharacter
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
