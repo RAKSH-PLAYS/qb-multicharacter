@@ -9,9 +9,9 @@ QB-Multicharacter
 - [qb-weathersync](https://github.com/qbcore-framework/qb-weathersync) - For adjusting the weather while player is creating a character.
 
 ## Screenshots
-![Character Selection] (https://media.discordapp.net/attachments/1036234053256486957/1063388021577240616/Screenshot_20230113_013838.png)
-![Character Registration] (https://media.discordapp.net/attachments/1036234053256486957/1063388021904379964/Screenshot_20230113_013844.png?width=1178&height=662)
-![Already Created] (https://media.discordapp.net/attachments/1036234053256486957/1063388023028453376/Screenshot_20230113_014218.png?width=1178&height=662)
+![Character Selection](https://media.discordapp.net/attachments/1036234053256486957/1063388021577240616/Screenshot_20230113_013838.png)
+![Character Registration](https://media.discordapp.net/attachments/1036234053256486957/1063388021904379964/Screenshot_20230113_013844.png?width=1178&height=662)
+![Already Created](https://media.discordapp.net/attachments/1036234053256486957/1063388023028453376/Screenshot_20230113_014218.png?width=1178&height=662)
 
 ## Manual Installation
 
